@@ -1,0 +1,1 @@
+## Pipeline de dados usando arquitetura medallion

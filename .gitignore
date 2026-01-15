@@ -1,0 +1,5 @@
+# Coisas a serem ignoradas
+
+venv
+
+.venv
